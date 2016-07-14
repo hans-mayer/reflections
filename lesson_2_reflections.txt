@@ -7,5 +7,23 @@ How is the staging area different from the working directory and the repository?
 
 in staging area are only files from 'git add' 
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+adding only those files which belong together for a logical change 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+test szenarios 
+
+How do the diagrams help you visualize the branch structure?
+
+to see the denpendencies 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging 2 peaces of code 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+sometimes well known what to do 
 
